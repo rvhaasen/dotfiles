@@ -9,4 +9,4 @@ alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 
 alias vi=vim
-alias dotfiles='/usr/bin/git --git-dir=/home/cwips/.dotfiles --work-tree=/home/cwips'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
