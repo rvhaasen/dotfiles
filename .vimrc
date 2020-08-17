@@ -1,1 +1,1 @@
-# Nothing yet
+" Vim resource file
